@@ -19,7 +19,9 @@ Dla kont non premium (np. TLauncher) i innych launcherów z Fabric (Prism, Multi
 1. Pobierz z **Releases** plik `NyxCode-Mod-<wersja>.zip`.
 2. W swoim launcherze wybierz wersję Fabric 1.21.11 (Fabric Loader 0.19 albo nowszy) i odpal ją raz.
 3. Wrzuć oba pliki `.jar` z paczki (NyxCode Client i Fabric API) do folderu `mods` tej wersji.
-4. W grze menu modów otwierasz prawym Shiftem. Na FPS i shadery możesz dorzucić Sodium, Lithium i Iris z modrinth.com.
+4. W grze menu modów otwierasz prawym Shiftem.
+5. Shadery Nyx (woda, deszcz, kałuże): dorzuć do `mods` [Iris](https://modrinth.com/mod/iris) i [Sodium](https://modrinth.com/mod/sodium) w wersji Fabric 1.21.11. Nyx Shaders są w modzie i przy pierwszym uruchomieniu same się wgrają i włączą.
+6. Masz kupionego Minecrafta, ale grasz w innym launcherze? Premium+ włączysz w grze: prawy Shift, „Zaloguj przez Discord”.
 
 Na koncie non premium działa wersja darmowa. Premium+ wymaga kupionego Minecrafta, bo licencja przypina się do konta Microsoft.
 
